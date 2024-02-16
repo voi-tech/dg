@@ -9,7 +9,5 @@ Ta strona powstała z wykorzystaniem programu [Obsidian](https://obsidian.md/) i
 
 Notatki są w formacie Markdown, zapisane lokalnie na urządzeniu i synchronizowane za pomocą iCloud, a ich kopia jest na GitHub.
 
-## Ostatnio modyfikowane notatki
-
 
 { .block-language-dataview}
