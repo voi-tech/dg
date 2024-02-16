@@ -19,7 +19,7 @@ I recommend you also see the other entries at this link: https://defaults.rknigh
 - 📁 Cloud File Storage: ~~Google Drive~~, iCloud
 - 📖 RSS: [NetNewsWire](https://netnewswire.com/)
 - 🙎🏻‍♂️ Contacts: Apple Contacts
-- 🌐 Browser: ~~Arc Browser~~, Safari
+- 🌐 Browser: Arc Browser, Safari
 - 💬 Chat: ~~Messenger~~, iMessage, [Signal](https://www.signal.org/)
 - 🔖 Bookmarks: ~~Raindrop~~, [Obsidian](https://obsidian.md/), Safari, [Arc Browser](https://arc.net/)
 - 📑 Read It Later: [Obsidian](https://obsidian.md/), [Omnivore](https://omnivore.app/)
