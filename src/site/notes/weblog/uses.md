@@ -25,31 +25,31 @@ Aplikacje, których używam (przekreślonych już nie używam):
 - 📮 Mail Server: ~~Outlook~~, ~~Gmail~~, **iCloud**
 - 📝 Notes: ~~Google Keep~~, **[Obsidian](https://obsidian.md/)**, **Notes.app**
 - ✅ To-do: ~~Todoist~~, **Reminders.app**
-- 📷 iPhone Photo Shooting:  **Camera.app**
-- 🟦 Photo Management:  ~~Google Photos~~,  **Photos.app**
-- 📆 Calendar:  ~~Google Calendar~~,  **Calendar.app**
-- 📁 Cloud File Storage:  ~~Google Drive~~,  **iCloud**
+- 📷 iPhone Photo Shooting: **Camera.app**
+- 🟦 Photo Management: ~~Google Photos~~, **Photos.app**
+- 📆 Calendar: ~~Google Calendar~~, **Calendar.app**
+- 📁 Cloud File Storage: ~~Google Drive~~, **iCloud**
 - 📖 RSS: ~~Inoreader~~, **[NetNewsWire](https://netnewswire.com/)**
-- 🙎🏻‍♂️ Contacts:  ~~Google Contacts~~,  **Contacts.app**
-- 🌐 Browser: **[Arc Browser](https://arc.net/gift/f70fd7c0)**,  **Safari**
-- 💬 Chat:  ~~Messenger~~,  **iMessage**,  **[Signal](https://www.signal.org/)**
-- 🔖 Bookmarks: ~~Raindrop~~,  **Safari**
-- 📑 Read It Later:  **Safari reading list**,  **Notes.app**
-- 📜 Word Processing:  ~~Word~~,  ~~Google Docs~~, **[Obsidian](https://obsidian.md/)**,  **Pages.app**
-- 📈 Spreadsheets:  ~~Excel~~,  ~~Google Sheets~~,  **Numbers.app**
-- 📊 Presentations:  ~~PowerPoint~~,  ~~Google Slides~~,  **Keynote.app**
-- 🛒 Shopping Lists:  **Reminders.app**
-- 💰 Budgeting and Personal Finance: ~~YNAB~~,  **Numbers.app**
-- 📰 News: ~~Inoreader~~, **[NetNewsWire](https://netnewswire.com/)**,  **Mastodon**
-- 🎵 Music:  ~~Spotify~~, ~~YouTube Music~~,  **Music.app**
-- 🎤 Podcasts:  ~~Google Podcasts~~,  **Podcasts.app**
-- 🔐 Password Management: ~~Bitwarden~~, ~~1Password~~,  **iCloud Keychain**
-- 🐘 Social Media: ~~Bitwarden~~, ~~1Password~~,  **Mastodon**, **Mona**, **[social.lol](https://home.omg.lol/referred-by/voitech)**
+- 🙎🏻‍♂️ Contacts: ~~Google Contacts~~, **Contacts.app**
+- 🌐 Browser: **[Arc Browser](https://arc.net/gift/f70fd7c0)**, **Safari**
+- 💬 Chat: ~~Messenger~~, **iMessage**, **[Signal](https://www.signal.org/)**
+- 🔖 Bookmarks: ~~Raindrop~~, **Safari**
+- 📑 Read It Later: **Safari reading list**, **Notes.app**
+- 📜 Word Processing: ~~Word~~, ~~Google Docs~~, **[Obsidian](https://obsidian.md/)**, **Pages.app**
+- 📈 Spreadsheets: ~~Excel~~, ~~Google Sheets~~, **Numbers.app**
+- 📊 Presentations: ~~PowerPoint~~, ~~Google Slides~~, **Keynote.app**
+- 🛒 Shopping Lists: **Reminders.app**
+- 💰 Budgeting and Personal Finance: ~~YNAB~~, **Numbers.app**
+- 📰 News: ~~Inoreader~~, **[NetNewsWire](https://netnewswire.com/)**, **Mastodon**
+- 🎵 Music: ~~Spotify~~, ~~YouTube Music~~, **Music.app**
+- 🎤 Podcasts: ~~Google Podcasts~~, **Podcasts.app**
+- 🔐 Password Management: ~~Bitwarden~~, ~~1Password~~, **iCloud Keychain**
+- 🐘 Social Media: ~~Bitwarden~~, ~~1Password~~, **Mastodon**, **Mona**, **[social.lol](https://home.omg.lol/referred-by/voitech)**
 - 🚀 Launcher: **[Raycast](https://www.raycast.com/)**, **Spotlight**
 - 💻 Screenshot Tool: **[Shottr](https://shottr.cc/)**
 - ✍🏻 Blogging: **[Obsidian](https://obsidian.md/)** + **[Digital Garden](https://github.com/oleeskild/obsidian-digital-garden) plugin**, **[weblog.lol](https://home.omg.lol/referred-by/voitech)**
 - 🔗 Website: **[omg.lol](https://home.omg.lol/referred-by/voitech)**
-- ⚙️ Automation:  **Shortcuts.app**
+- ⚙️ Automation: **Shortcuts.app**
 - 📋 Clipboard Manager: **[PastePal](https://indiegoodies.com/pastepal)**
 
 ### Automation with Apple Shortcuts
