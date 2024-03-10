@@ -24,5 +24,7 @@ Więcej o mnie i o tej stronie przeczytasz [tutaj](https://voitech.weblog.lol/ab
 - [[weblog/Jak i dlaczego tworzę notatki w Obsidian\|Jak i dlaczego tworzę notatki w Obsidian]]
 - [[weblog/App Defaults 2024\|App Defaults 2024]]
 - [[weblog/now\|now]]
+- [[weblog/My MacBook Setup 2024\|My MacBook Setup 2024]]
 
 { .block-language-dataview}
+
