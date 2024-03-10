@@ -10,10 +10,10 @@
 Więcej o mnie i o tej stronie przeczytasz [tutaj](https://voitech.weblog.lol/about)!
 
 **Znajdziesz mnie również tutaj:**
-- [<i class="fa-brands fa-mastodon"></i> Mastodon](https://social.lol/@voitech)
-- [<i class="fa-solid fa-globe"></i> omg.lol](https://voitech.omg.lol/)
-- [<i class="fa-brands fa-github"></i> GitHub](https://github.com/voi-tech)
-- [<i class="fa-brands fa-playstation"></i> PSN](https://psnprofiles.com/voitech-42)
+- [Mastodon](https://social.lol/@voitech)
+- [omg.lol](https://voitech.omg.lol/)
+- [GitHub](https://github.com/voi-tech)
+- [PSN](https://psnprofiles.com/voitech-42)
 
 ---
 
@@ -23,7 +23,6 @@ Więcej o mnie i o tej stronie przeczytasz [tutaj](https://voitech.weblog.lol/ab
 - [[weblog/about\|about]]
 - [[weblog/Jak i dlaczego tworzę notatki w Obsidian\|Jak i dlaczego tworzę notatki w Obsidian]]
 - [[weblog/App Defaults 2024\|App Defaults 2024]]
-- [[weblog/home\|home]]
 - [[weblog/Pomysły\|Pomysły]]
 
 { .block-language-dataview}
