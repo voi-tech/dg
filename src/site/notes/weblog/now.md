@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/weblog/now/"}
+{"dg-publish":true,"permalink":"/weblog/now/","tags":["wip"]}
 ---
 
 
