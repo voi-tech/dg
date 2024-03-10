@@ -23,7 +23,6 @@ Więcej o mnie i o tej stronie przeczytasz [tutaj](https://voitech.weblog.lol/ab
 - [[weblog/about\|about]]
 - [[weblog/Jak i dlaczego tworzę notatki w Obsidian\|Jak i dlaczego tworzę notatki w Obsidian]]
 - [[weblog/App Defaults 2024\|App Defaults 2024]]
-- [[weblog/Pomysły\|Pomysły]]
 - [[weblog/now\|now]]
 
 { .block-language-dataview}
