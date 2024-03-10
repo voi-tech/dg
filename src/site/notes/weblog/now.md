@@ -3,4 +3,4 @@
 ---
 
 
-<script src="https://omgnow.rknight.me/now.js?a=**voitech**&pretty"></script>
+<script src="https://omgnow.rknight.me/now.js?a=**voitech**"></script>
