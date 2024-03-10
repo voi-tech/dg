@@ -11,6 +11,8 @@ This is my [now page](https://nownownow.com/about). [Go back to my web page!](ht
 
 ---
 
+## 📆
+
 - configuring my omg.lol pages
 - learning english with Duolingo
 - started using PastePal app on my iPhone and MacBook as a clipboard manager
