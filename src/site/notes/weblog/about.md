@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/weblog/about/"}
+{"dg-publish":true,"permalink":"/weblog/about/","tags":["wip"]}
 ---
 
 
@@ -30,6 +30,6 @@ Krótko o mnie:
 
 ## Co to za strona?
 
-Ta strona została stworzona w serwisie [omg.lol](https://home.omg.lol/referred-by/voitech) za pomocą [weblog.lol](https://home.omg.lol/referred-by/voitech). Weblog to narzędzie do tworzenia bloga. Strona jest cały czas w trakcie budowy. Niedługo to narzędzie zostanie zaktualizowane, więc wszystko może się zmienić!
+Ta strona została stworzona w programie [Obsidian](https://obsidian.md/) za pomocą wtyczki [Digital Garden](https://github.com/oleeskild/obsidian-digital-garden). Strona jest cały czas w trakcie budowy.
 
 Każda nieukończona strona ma dopisek *WIP* lub jest oznaczona tagiem `#wip`, co oznacza *Work In Progress*, czyli *prace w toku*. Jest to tak zwany *wypełniacz*, lub *placeholder*.
