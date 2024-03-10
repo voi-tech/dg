@@ -7,7 +7,7 @@
 
 **voitech** to zawodowo specjalista i konsultant IT, lektor języka angielskiego, instruktor programowania, certyfikowany nauczyciel Minecraft: Education Edition, edukator cyberbezpieczeństwa. Prywatnie natomiast ciągle uczący się początkujący programista.
 
-Więcej o mnie i o tej stronie przeczytasz [tutaj](https://voitech.weblog.lol/about)!
+Więcej o mnie i o tej stronie przeczytasz [[weblog/about\|tutaj]]!
 
 **Znajdziesz mnie również tutaj:**
 - [Mastodon](https://social.lol/@voitech)
