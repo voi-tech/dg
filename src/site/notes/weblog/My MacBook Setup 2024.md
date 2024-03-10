@@ -5,11 +5,7 @@
 
 # My MacOS Setup 2024
 
-- [[weblog/My MacBook Setup 2024#MacBook Air M1 8/256\|#MacBook Air M1 8/256]]
-- [[weblog/My MacBook Setup 2024#Dock\|#Dock]]
-- [[weblog/My MacBook Setup 2024#Launcher\|#Launcher]]
-- [[weblog/My MacBook Setup 2024#Apps\|#Apps]]
-
+W jaki sposób korzystam z komputera i z jakich programów?
 ## MacBook Air M1 8/256
 
 Używam MacBooka Air z 2020 roku z procesorem M1 w najbardziej podstawowej konfiguracji, czyli 8 GB RAM i 256 GB pamięci wewnętrznej. Kupiłem w marcu 2021 i służy mi wiernie do dziś! Było to moje pierwsze urządzenie z nadgryzionym jabłkiem, nigdy wcześniej nie używałem żadnego urządzenia Apple.
