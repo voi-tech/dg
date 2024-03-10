@@ -40,4 +40,4 @@ I recommend you also see the other entries at this link: https://defaults.rknigh
 - ⚙️ Automation: **Shortcuts.app**
 - 📋 Clipboard Manager: **[PastePal](https://indiegoodies.com/pastepal)**
 
-See more on my [uses](https://voitech.weblog.lol/uses) site!
+See more on my [[weblog/uses\|uses]] site!
