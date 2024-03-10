@@ -3,4 +3,4 @@
 ---
 
 
-<script src="https://status.lol/voitech.js?time&link&fluent&pretty"></script>
+<script src="https://omgnow.rknight.me/now.js?a=**voitech**&pretty"></script>
