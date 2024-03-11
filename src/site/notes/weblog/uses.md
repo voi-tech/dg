@@ -85,5 +85,6 @@ Wszędzie, gdzie to możliwe, używam systemu PARA od Tiago Forte.
 
 - dark mode
 - [Dracula](https://draculatheme.com/)
+- [Flexoki](https://stephango.com/flexoki)
 - [San Francisco](https://developer.apple.com/fonts/)
 - [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
