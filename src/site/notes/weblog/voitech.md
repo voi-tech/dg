@@ -12,7 +12,7 @@
 *Więcej o mnie i o tej stronie przeczytasz [[weblog/about\|tutaj]]!*
 
 **Znajdziesz mnie również na:**
-- [Mastodon](https://social.lol/@voitech)
+- <a rel="me" href="https://social.lol/@voitech">Mastodon</a>
 - [omg.lol](https://voitech.omg.lol/)
 - [GitHub](https://github.com/voi-tech)
 - [PSN](https://psnprofiles.com/voitech-42)
@@ -29,5 +29,3 @@
 - [[weblog/My MacOS Setup 2024\|My MacOS Setup 2024]]
 
 { .block-language-dataview}
-
-
