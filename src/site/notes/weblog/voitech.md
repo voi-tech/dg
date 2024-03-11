@@ -27,5 +27,6 @@
 - [[weblog/now\|now]]
 - [[weblog/uses\|uses]]
 - [[weblog/My MacOS Setup 2024\|My MacOS Setup 2024]]
+- [[weblog/Media Tracker\|Media Tracker]]
 
 { .block-language-dataview}
