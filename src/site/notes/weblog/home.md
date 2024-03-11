@@ -26,7 +26,7 @@ Więcej o mnie i o tej stronie przeczytasz [[weblog/about\|tutaj]]!
 - [[weblog/Jak i dlaczego tworzę notatki w Obsidian\|Jak i dlaczego tworzę notatki w Obsidian]]
 - [[weblog/App Defaults 2024\|App Defaults 2024]]
 - [[weblog/now\|now]]
-- [[weblog/My MacBook Setup 2024\|My MacBook Setup 2024]]
+- [[weblog/My MacOS Setup 2024\|My MacOS Setup 2024]]
 
 { .block-language-dataview}
 
