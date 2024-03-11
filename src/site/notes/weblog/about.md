@@ -9,14 +9,14 @@ Tutaj dowiesz się kim jestem i co to za strona. Piszę głównie po polsku, ale
 
 ## Kim jestem?
 
-Krótko o mnie:
+**Krótko o mnie:**
 
 - wiek - 30 lat
 - lokalizacja - Warszawa, Polska
 - zawód - edukator cyberbezpieczeństwa, specjalista i konsultant IT, lektor języka angielskiego, instruktor programowania, certyfikowany nauczyciel Minecraft: Education Edition
 - zainteresowania - programowanie, nauka języków obcych, zarządzanie wiedzą osobistą
 
-[CliftonStrenghts](https://pl.wikipedia.org/wiki/Test_Gallupa)™ (talenty Gallupa):
+**[CliftonStrenghts](https://pl.wikipedia.org/wiki/Test_Gallupa)™ (talenty Gallupa):**
 
 1. Learner - uczenie się
 2. Analytical - analityk
@@ -24,12 +24,12 @@ Krótko o mnie:
 4. Discipline - dyscyplina
 5. Input - zbieranie
 
-[16 personalities](https://www.16personalities.com/) (MBTI): [INTJ](https://www.16personalities.com/pl/osobowosc-intj).
+[INTJ](https://www.16personalities.com/pl/osobowosc-intj)
 
-[Temperament](https://pl.wikipedia.org/wiki/Temperament): [flegmatyk](https://pl.wikipedia.org/wiki/Flegmatyk).
+[flegmatyk](https://pl.wikipedia.org/wiki/Flegmatyk)
 
 ## Co to za strona?
 
-Ta strona została stworzona w programie [Obsidian](https://obsidian.md/) za pomocą wtyczki [Digital Garden](https://github.com/oleeskild/obsidian-digital-garden). Strona jest cały czas w trakcie budowy.
+Ta strona została stworzona w programie [Obsidian](https://obsidian.md/) za pomocą wtyczki [Digital Garden](https://github.com/oleeskild/obsidian-digital-garden). Strona jest cały czas w trakcie budowy, to znaczy, że treści i wygląd mogą się zmieniać.
 
-Każda nieukończona strona ma dopisek *WIP* lub jest oznaczona tagiem `#wip`, co oznacza *Work In Progress*, czyli *prace w toku*. Jest to tak zwany *wypełniacz*, lub *placeholder*.
+Motyw kolorystyczny na tej stronie to [Border](https://github.com/Akifyss/obsidian-border), inspirowany motywem [Dracula](https://draculatheme.com/), którego staram się używać wszędzie.
