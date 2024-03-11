@@ -63,9 +63,9 @@ Aplikacje, których używam (przekreślonych już nie używam):
 - [Toolbox Pro](https://apps.apple.com/pl/app/toolbox-pro-for-shortcuts/id1476205977?l=pl)
 
 **Tych skrótów używam regularnie:**
-- Drive Home - trasa do domu
-- Drive Work - trasa do pracy
-- Drive Event - trasa na najbliższe wydarzenie z kalendarza
+- Home - trasa do domu
+- Work - trasa do pracy
+- Event - trasa na najbliższe wydarzenie z kalendarza
 - YouTube - otwiera aplikację YouTube w zakładce Subskrypcje
 - Passwords - otwiera okno wyszukiwania haseł
 - Obsidian - zestaw skrótów do tworzenia różnych notatek w Obsidian z szablonów
@@ -80,3 +80,10 @@ Wszędzie, gdzie to możliwe, używam systemu PARA od Tiago Forte.
 2. Areas of Responsibility - obowiązki bez daty rozpoczęcia i zakończenia, stałe obszary odpowiedzialności.
 3. Resources - zasoby, czyli pliki i notatki do ewentualnego wykorzystania w przyszłości.
 4. Archive - archiwum na elementy nieaktualne z pozostałych kategorii.
+
+## Wygląd
+
+- dark mode
+- [Dracula](https://draculatheme.com/)
+- [San Francisco](https://developer.apple.com/fonts/)
+- [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
