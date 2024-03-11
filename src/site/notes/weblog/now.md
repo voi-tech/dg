@@ -18,4 +18,4 @@ This is my [now page](https://nownownow.com/about). [Go back to my web page!](ht
 - started using PastePal app on my iPhone and MacBook as a clipboard manager
 - watched Game of Thrones series for the first time
 
-<script src="https://omgnow.rknight.me/now.js?a=**voitech**&pretty"></script>
+<script src="https://omgnow.rknight.me/now.js?a=**voitech**&simple"></script>
