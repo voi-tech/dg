@@ -5,9 +5,7 @@
 
 # Welcome to the real world!
 
-> [!quote] The Matrix (1999)
 > *I'm trying to free your mind, Neo. But I can only show you the door. You're the one that has to walk through it.*
-> - Morpheus
 
 **voitech** to zawodowo specjalista i konsultant IT, lektor języka angielskiego, instruktor programowania, certyfikowany nauczyciel Minecraft: Education Edition, edukator cyberbezpieczeństwa. Prywatnie natomiast ciągle uczący się początkujący programista.
 
