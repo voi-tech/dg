@@ -21,11 +21,11 @@ Więcej o mnie i o tej stronie przeczytasz [[weblog/about\|tutaj]]!
 
 ## Ostatnie wpisy
 
-- [[weblog/uses\|uses]]
-- [[weblog/about\|about]]
-- [[weblog/Jak i dlaczego tworzę notatki w Obsidian\|Jak i dlaczego tworzę notatki w Obsidian]]
 - [[weblog/App Defaults 2024\|App Defaults 2024]]
+- [[weblog/Jak i dlaczego tworzę notatki w Obsidian\|Jak i dlaczego tworzę notatki w Obsidian]]
+- [[weblog/about\|about]]
 - [[weblog/now\|now]]
+- [[weblog/uses\|uses]]
 - [[weblog/My MacOS Setup 2024\|My MacOS Setup 2024]]
 
 { .block-language-dataview}
