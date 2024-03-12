@@ -26,8 +26,11 @@ Wymagane wtyczki:
 
 ## Notes
 
+dataview
+list
+where file.name != this.file.name and file.mday = this.file.day
+sort file.mday desc
 
-{ .block-language-dataview}
 ~~~
 Nazwa notatki to dzisiejsza data w formacie `YYYY-MM-DD`, czyli np. `2024-03-15`.
 
@@ -44,8 +47,11 @@ Następna sekcja to `## Daily Log`, czyli wydarzenia w ciągu dnia. Wpisuję je 
 Ostatnia sekcja to `## Notes`, czyli zbiór notatek utworzonych lub zmodyfikowanych dzisiaj. Notatki są automatycznie dodawane za pomocą wtyczki Dataview, ale nic nie stoi na przeszkodzie, aby robić to ręcznie.
 
 ~~~
+dataview
+list
+where file.name != this.file.name and file.mday = this.file.day
+sort file.mtime desc
 
-{ .block-language-dataview}
 ~~~
 
 Powyższy skrypt tworzy listę notatek (`list`), gdzie nazwa pliku to nie jest nazwa tego pliku (`where file.name != this.file.name`), czyli ta notatka codzienna nie wyświetli się na tej liście. I dodatkowo dzień ostatniej modyfikacji pliku jest taki sam, jak dzień utworzenia tej notatki (`and file.mday = this.file.day`). Lista jest sortowana chronologicznie w odwróconej kolejności, czyli pliki ostatnio edytowane będą na samej górze (`sort file.mtime desc`).
