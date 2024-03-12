@@ -13,8 +13,6 @@ Wymagane wtyczki:
 - Daily Notes
 - Dataview
 
-
-
 ~~~
 # <% tp.date.now("dddd, DD MMMM YYYY") %>
 
@@ -32,6 +30,7 @@ where file.name != this.file.name and file.mday = this.file.day
 sort file.mday desc
 
 ~~~
+
 Nazwa notatki to dzisiejsza data w formacie `YYYY-MM-DD`, czyli np. `2024-03-15`.
 
 Tytuł notatki jest zapisany jako nagłówek pierwszego poziomu, czyli H1:
