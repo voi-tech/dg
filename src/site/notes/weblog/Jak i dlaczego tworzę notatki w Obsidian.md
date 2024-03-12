@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/weblog/jak-i-dlaczego-tworze-notatki-w-obsidian/"}
+{"dg-publish":true,"dg-permalink":"/weblog/dlaczego-obsidian","permalink":"/weblog/dlaczego-obsidian/"}
 ---
 
 
