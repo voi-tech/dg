@@ -7,7 +7,7 @@
 
 Szablon notatki codziennej, czyli takiej, której tytuł to dzisiejsza data a treść odnosi się do dzisiejszego dnia.
 
-Wymagane wtyczki:
+**Wymagane wtyczki:**
 
 - Templater
 - Daily Notes
