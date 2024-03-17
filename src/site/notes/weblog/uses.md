@@ -88,3 +88,7 @@ Wszędzie, gdzie to możliwe, używam systemu PARA od Tiago Forte.
 - [Flexoki](https://stephango.com/flexoki)
 - [San Francisco](https://developer.apple.com/fonts/)
 - [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
+
+---
+
+> *Remember... all I'm offering is the truth. Nothing more.*
