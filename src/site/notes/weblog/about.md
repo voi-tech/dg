@@ -31,3 +31,7 @@ Tutaj dowiesz się kim jestem i co to za strona. Piszę głównie po polsku, ale
 ## Co to za strona?
 
 Ta strona została stworzona w programie [Obsidian](https://obsidian.md/) za pomocą wtyczki [Digital Garden](https://github.com/oleeskild/obsidian-digital-garden). Strona jest cały czas w trakcie budowy, to znaczy, że treści i wygląd mogą się zmieniać.
+
+---
+
+> *Remember... all I'm offering is the truth. Nothing more.*
