@@ -11,11 +11,11 @@
 
 *Więcej o mnie i o tej stronie przeczytasz [[weblog/about\|tutaj]]!*
 
-**Znajdziesz mnie również na:**
-- <a rel="me" href="https://social.lol/@voitech">Mastodon</a>
-- [omg.lol](https://voitech.omg.lol/)
-- [GitHub](https://github.com/voi-tech)
-- [PSN](https://psnprofiles.com/voitech-42)
+- <a rel="me" href="https://social.lol/@voitech">mastodon</a>
+- [web](https://voitech.omg.lol/)
+- [now](https://voitech.omg.lol/now)
+- [blog](https://voitech.weblog.lol)
+- [youtube](https://www.youtube.com/@voitech_)
 
 ---
 
