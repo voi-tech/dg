@@ -37,3 +37,7 @@ Zbiór notatek na temat gier, filmów i seriali.
 | ![](https://m.media-amazon.com/images/M/MV5BN2IzYzBiOTQtNGZmMi00NDI5LTgxMzMtN2EzZjA1NjhlOGMxXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_SX300.jpg) | [[3 Resources/series/Game of Thrones (2011–2019)\|Game of Thrones (2011–2019)]] | 2011–2019 | 8 / 57 minutes | 86%    |
 
 { .block-language-dataview}
+
+---
+
+> *Remember... all I'm offering is the truth. Nothing more.*
