@@ -80,3 +80,7 @@ Nie trać czasu na zbyt zaawansowane dostosowanie programu czy korzystanie z zaa
 Nie twórz zbyt wielu *pustych* folderów. Korzystaj z nich, kiedy nadejdzie taka potrzeba, nie rób nic *na zapas*. Stwórz swój własny system pracy, eksperymentuj, nie kopiuj 1:1 czyjegoś systemu, bo prawdopodobnie u ciebie nie zadziała.
 
 Nie musisz korzystać z wszystkich wtyczek i opcji programu! Możesz, ale nie musisz. Nie trać czasu na poznanie wszystkich tajników Obsidiana od razu, daj sobie czas i szukaj poradników w razie potrzeby.
+
+---
+
+> *Remember... all I'm offering is the truth. Nothing more.*
