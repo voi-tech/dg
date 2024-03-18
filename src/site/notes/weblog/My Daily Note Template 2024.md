@@ -14,7 +14,7 @@ Szablon notatki codziennej, czyli takiej, której tytuł to dzisiejsza data a tr
 - Dataview
 
 ~~~
-# <% tp.date.now("dddd, DD MMMM YYYY") %>
+# <% moment(tp.file.title,'YYYY-MM-DD').format("dddd, DD MMMM YYYY") %>
 
 <% tp.web.daily_quote() %>
 
