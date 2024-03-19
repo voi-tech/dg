@@ -31,7 +31,3 @@
 - [[weblog/uses\|uses]]
 
 { .block-language-dataview}
-
----
-
-> *Remember... all I'm offering is the truth. Nothing more.*
