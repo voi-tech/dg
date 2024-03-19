@@ -58,7 +58,3 @@ Powyższy skrypt tworzy listę notatek (`list`), gdzie nazwa pliku to nie jest n
 Dodatkowo poniżej dodaję wszystkie inne rzeczy, typu linki do stron internetowych, które dziś znalazłem i chciałbym zachować.
 
 W ustawieniach wtyczki nazwa notatki jest zdefiniowana w taki sposób, aby automatycznie tworzyć notatkę w dedykowanym folderze. Format wygląda następująco: `YYYY/MM-MMMM/YYYY-MM-DD`, czyli notatka o nazwie `2024-03-15` jest w folderze `03-March`, który jest w folderze `2024`.
-
----
-
-> *Remember... all I'm offering is the truth. Nothing more.*
