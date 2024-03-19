@@ -41,7 +41,3 @@ I recommend you also see the other entries at this link: https://defaults.rknigh
 - 📋 Clipboard Manager: **[PastePal](https://indiegoodies.com/pastepal)**
 
 See more on my [[weblog/uses\|uses]] site!
-
----
-
-> *Remember... all I'm offering is the truth. Nothing more.*
