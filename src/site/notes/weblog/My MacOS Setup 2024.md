@@ -47,7 +47,3 @@ Skonfigurowałem w Raycast również dużo skrótów, dzięki czemu mogę np. wp
 Dodatkowo intensywnie korzystam z aplikacji Apple, takich jak **Notatki**, **Przypomnienia** i **Kalendarz**, a także **Pages** do edytowania dokumentów i **Numbers** do prowadzenia budżetu domowego.
 
 Jeśli chcesz dowiedzieć się nieco więcej o aplikacjach, z których korzystam, sprawdź [[weblog/App Defaults 2024\|App Defaults 2024]].
-
----
-
-> *Remember... all I'm offering is the truth. Nothing more.*
