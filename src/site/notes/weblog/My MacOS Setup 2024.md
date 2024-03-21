@@ -20,7 +20,7 @@ Nie mogę przez to np. instalować bardziej wymagających gier czy korzystać z 
 Nie używam już za bardzo docka, bo mam skonfigurowane automatyzacje i skróty klawiszowe. Dock jest zlokalizowany na dole i automatycznie się chowa. Często jednak eksperymentowałem z jego lokalizacją, przez dłuższy czas używałem go z lewej strony. Po aktualizacji wprowadzającej Stage Manager przemieściłem go na dół.
 
 **W Docku mam następujące aplikacje, patrząc od lewej strony:**
-- Finder, Launchpad, iTerm, Kalendarz, Przypomnienia, Notatki, Obsidian, Safari, Arc, Poczta, Signal, Mona, Prism Launcher, Skróty, Podcasty, DaVinci Resolve, Pobrane rzeczy i Kosz.
+- Finder, Launchpad, Ustawienia, Arc, Safari, Poczta, Kalendarz, Przypomnienia, Notatki, Obsidian, Skróty.
 
 ## Launcher
 
