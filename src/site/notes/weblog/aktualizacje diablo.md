@@ -7,7 +7,7 @@
 
 > Dokument ten będzie aktualizowany wraz z większymi aktualizacjami w grze Diablo IV. Opis poprzednich aktualizacji na samym dole.
 
-## [# Diablo IV | Campfire Chat - PTR Overview | March 2024](https://www.youtube.com/watch?v=IP-JRUMq2N8)
+## [Diablo IV | Campfire Chat - PTR Overview | March 2024](https://www.youtube.com/watch?v=IP-JRUMq2N8)
 
 ### Itemization
 
