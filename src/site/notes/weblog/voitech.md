@@ -21,14 +21,14 @@
 
 ## Ostatnie wpisy
 
+- [[weblog/Aktualizacje Diablo\|Aktualizacje Diablo]]
+- [[weblog/My MacOS Setup 2024\|My MacOS Setup 2024]]
+- [[weblog/My Daily Note Template 2024\|My Daily Note Template 2024]]
+- [[weblog/about\|about]]
 - [[weblog/App Defaults 2024\|App Defaults 2024]]
 - [[weblog/Jak i dlaczego tworzę notatki w Obsidian\|Jak i dlaczego tworzę notatki w Obsidian]]
 - [[weblog/Media Tracker\|Media Tracker]]
-- [[weblog/My Daily Note Template 2024\|My Daily Note Template 2024]]
-- [[weblog/My MacOS Setup 2024\|My MacOS Setup 2024]]
-- [[weblog/about\|about]]
 - [[weblog/now\|now]]
 - [[weblog/uses\|uses]]
-- [[weblog/Aktualizacje Diablo\|Aktualizacje Diablo]]
 
 { .block-language-dataview}
