@@ -29,6 +29,6 @@
 - [[weblog/about\|about]]
 - [[weblog/now\|now]]
 - [[weblog/uses\|uses]]
-- [[weblog/aktualizacje diablo\|aktualizacje diablo]]
+- [[weblog/Aktualizacje Diablo\|Aktualizacje Diablo]]
 
 { .block-language-dataview}
