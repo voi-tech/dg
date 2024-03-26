@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/weblog/my-mac-os-setup-2024/"}
+{"dg-publish":true,"permalink":"/weblog/my-mac-os-setup-2024/","tags":["MacOS"]}
 ---
 
 
