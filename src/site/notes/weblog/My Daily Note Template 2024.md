@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/weblog/my-daily-note-template-2024/"}
+{"dg-publish":true,"permalink":"/weblog/my-daily-note-template-2024/","tags":["Obsidian/Templates"]}
 ---
 
 
