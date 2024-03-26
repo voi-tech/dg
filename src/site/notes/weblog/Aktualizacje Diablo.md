@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/weblog/aktualizacje-diablo/","tags":["DiabloIV","Games","Gry"]}
+{"dg-publish":true,"permalink":"/weblog/aktualizacje-diablo/","tags":["Games/DiabloIV"]}
 ---
 
 
