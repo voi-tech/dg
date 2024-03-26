@@ -21,6 +21,7 @@
 
 ## Ostatnie wpisy
 
+- [[weblog/archive\|archive]]
 - [[weblog/uses\|uses]]
 - [[weblog/now\|now]]
 - [[weblog/about\|about]]
