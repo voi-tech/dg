@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/weblog/dlaczego-obsidian","permalink":"/weblog/dlaczego-obsidian/"}
+{"dg-publish":true,"dg-permalink":"/weblog/dlaczego-obsidian","permalink":"/weblog/dlaczego-obsidian/","tags":["Obsidian"]}
 ---
 
 
