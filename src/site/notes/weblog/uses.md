@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/weblog/uses/","tags":["wip"]}
+{"dg-publish":true,"permalink":"/weblog/uses/","tags":["Apps","Software","Hardware"]}
 ---
 
 
