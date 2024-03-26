@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/weblog/media-tracker/","contentClasses":"cards-cols-3 cards"}
+{"dg-publish":true,"permalink":"/weblog/media-tracker/","contentClasses":"cards-cols-3 cards","tags":["Games","Movies","Series"]}
 ---
 
 
