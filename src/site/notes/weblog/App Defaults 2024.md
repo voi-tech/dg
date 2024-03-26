@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/weblog/app-defaults-2024/"}
+{"dg-publish":true,"permalink":"/weblog/app-defaults-2024/","tags":["Apps"]}
 ---
 
 
